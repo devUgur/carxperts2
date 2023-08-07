@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Wir sind Ihr Experte in Sachen KFZ Gutachten aus Dortmund",
+    "btnText": "Mehr erfahren",
+    "content": "",
+    "to": "#why-we-component",
+    "image": "intro01.jpg",
+    "className": "one",
+    "scrollBtn": true
+  },
+  {
+    "title": "Schadenfestellung vom KFZ-Gutachter",
+    "btnText": "Unsere Leistungen",
+    "content": "Mit Erfahrung & Fachwissen finden und dokumentieren wir Haftpflichtschäden zuverlässig und fachgerecht.",
+    "to": "/services",
+    "image": "intro03.jpg",
+    "className": "two"
+  },
+  {
+    "title": "",
+    "btnText": "Über Uns",
+    "content": "",
+    "to": "/about",
+    "image": "intro02.jpg",
+    "className": "three"
+  },
+  {
+    "title": "Sie benötigen ein Gutachten? Wir regeln das sofort!",
+    "btnText": "Zum online Kontaktformular",
+    "content": "",
+    "to": "/contact",
+    "image": "intro04.jpg",
+    "className": "four"
+  }
+]

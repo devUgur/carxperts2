@@ -1,0 +1,12 @@
+:root{
+    --primary-color: #f51925;
+    --primary-dark-color: rgb(28,28,24);
+
+    --white-color: white;
+    --grey-color: grey;
+
+    --light-grey-color: #e7e6e6;
+
+    --font-color-dark: rgb(28,28,24);
+    --font-color-light: rgb(255,255,255)
+}

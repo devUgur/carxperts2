@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Unfallgutachten",
+    "descr": "Unsere erfahrenen Gutachter sind darauf spezialisiert, präzise Unfallgutachten zu erstellen. Egal ob es sich um einen leichten Blechschaden oder einen schweren Unfall handelt, wir untersuchen das Fahrzeug gründlich und dokumentieren den Schaden detailliert. Unser Ziel ist es, Ihnen eine zuverlässige Grundlage für Versicherungsansprüche und Reparaturentscheidungen zu bieten. Vertrauen Sie auf unsere Expertise und unser Engagement für höchste Qualität!",
+    "to": "/services/unfallgutachten",
+    "img": "intro01.jpg"
+  },
+  {
+    "name": "Kostenvoranschlag",
+    "descr": "Wenn Sie einen Kostenvoranschlag für Reparaturarbeiten benötigen, sind Sie bei uns richtig. Unsere Gutachter ermitteln die voraussichtlichen Kosten für die Instandsetzung Ihres Fahrzeugs und stellen Ihnen einen transparenten und nachvollziehbaren Kostenvoranschlag zur Verfügung. Wir verstehen, wie wichtig es ist, eine verlässliche Schätzung zu erhalten, und stehen Ihnen daher mit unserem Fachwissen zur Seite.",
+    "to": "/services/kostenvoranschlag",
+    "img": "02.jpg"
+  },
+  {
+    "name": "Reparaturbestätigung",
+    "descr": "Unsere Reparaturbestätigung gibt Ihnen die Sicherheit, dass die durchgeführten Reparaturen fachgerecht und gemäß den geltenden Standards erfolgt sind. Unsere Gutachter überprüfen das Fahrzeug nach den Reparaturarbeiten und bestätigen die ordnungsgemäße Instandsetzung. Mit unserer Reparaturbestätigung haben Sie die Gewissheit, dass Ihr Fahrzeug in einem einwandfreien Zustand ist.",
+    "to": "/services/reparaturbestätigung",
+    "img": "03.jpg"
+  },
+  {
+    "name": "Beweissicherung",
+    "descr": "Im Falle eines Unfalls oder Streitigkeiten können wir für Sie eine professionelle Beweissicherung durchführen. Unsere Gutachter dokumentieren den Zustand des Fahrzeugs und die Unfallsituation sorgfältig, um später als unabhängige Zeugen auftreten zu können. Die Beweissicherung kann Ihnen bei rechtlichen Auseinandersetzungen oder Versicherungsansprüchen von unschätzbarem Wert sein.",
+    "to": "/services/beweissicherung",
+    "img": "04.jpg"
+  },
+  {
+    "name": "Wertgutachten",
+    "descr": "Sie möchten den aktuellen Wert Ihres Fahrzeugs ermitteln? Unsere Gutachter erstellen detaillierte Wertgutachten, die den aktuellen Marktwert Ihres Fahrzeugs genau wiedergeben. Egal ob Sie Ihr Fahrzeug verkaufen oder versichern möchten, unser Wertgutachten bietet Ihnen eine verlässliche Grundlage für Ihre Entscheidungen.",
+    "to": "/services/wertgutachten",
+    "img": "05.jpg"
+  },
+  {
+    "name": "Gebrauchtwagencheck",
+    "descr": "Wenn Sie einen Gebrauchtwagen kaufen möchten, ist unser Gebrauchtwagencheck die ideale Wahl. Unsere Gutachter überprüfen das Fahrzeug auf Herz und Nieren und decken eventuelle Mängel oder versteckte Schäden auf. Mit unserem Gebrauchtwagencheck können Sie sicher sein, dass Sie ein zuverlässiges und qualitativ hochwertiges Fahrzeug erwerben.",
+    "to": "/services/gebrauchtwagencheck",
+    "img": "06.jpg"
+  }
+]

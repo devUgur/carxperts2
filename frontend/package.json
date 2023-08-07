@@ -7,8 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "gsap": "^3.12.2",
+    "leaflet": "^1.9.4",
+    "smoothscroll-polyfill": "^0.4.4",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vueperslides": "^3.5.1",
     "vuex": "^4.0.0"
   },
   "devDependencies": {

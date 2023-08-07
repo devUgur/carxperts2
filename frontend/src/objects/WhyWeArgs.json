@@ -1,0 +1,8 @@
+[
+  { "name": "Sachverstand", "icon": "rating.png", "description": "Fachwissen, Kompetenz und Erfahrung" },
+  { "name": "Vorort Service", "icon": "car-repair.png", "description": "Rund um die Uhr in Dortmund und im Ruhrgebiet" },
+  { "name": "Experten", "icon": "guru.png", "description": "Für Kfz-Schäden und Bewertung, sowie Havarieschäden" },
+  { "name": "Geprüfte Arbeit", "icon": "checked-box.png", "description": "Von dem Berufsverband Deutscher Sachverständiger e.V. (BDSH e.V.)" },
+  { "name": "Präzision", "icon": "precision.png", "description": "Unabhängig, Zuverlässig und Anerkannt" },
+  { "name": "Qualität", "icon": "diamond.png", "description": "Top-Kundenservice und ein ausgeweitetes Netzwerk" }
+]

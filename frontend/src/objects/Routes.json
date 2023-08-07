@@ -1,0 +1,19 @@
+[
+  { "name": "Startseite", "to": "/" },
+  { "name": "Leistungen", "to": "/services", "routes": [
+    { "name": "Alle Leistungen", "to": "/services"},
+    { "name": "Unfallgutachten", "to": "/services/unfallgutachten"},
+    { "name": "Wertgutachten", "to": "/services/wertgutachten"},
+    { "name": "Kostenvoranschlag", "to": "/services/kostenvoranschlag"},
+    { "name": "Reparaturbestätigung", "to": "/services/reparaturbestätigung"},
+    { "name": "Beweissicherung", "to": "/services/beweissicherung"},
+    { "name": "Gebrauchtwagencheck", "to": "/services/gebrauchtwagencheck"}
+  ]
+  },
+  { "name": "Über Uns", "to": "/about", "routes": [
+    { "name": "Das Team", "to": "/about/team" },
+    { "name": "Zertifikate", "to": "/about/zertifikat" }
+  ]
+  },
+  { "name": "Kontakt", "to":"/contact"}
+]

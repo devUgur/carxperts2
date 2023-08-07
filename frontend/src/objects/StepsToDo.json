@@ -1,0 +1,6 @@
+[
+  { "name": "Termin", "icon": "online-booking.png", "description": "Bei der Terminvereinbarung können Sie es sich ganz einfach aussuchen, ob Sie hierfür unser Kontaktformular nutzen möchten oder uns telefonisch kontaktieren. Sie erreichen uns auch via WhatsApp." },
+  { "name": "Besichtigung", "icon": "checked.png", "description": "Unsere Gutachter fahren zum vereinbarten Termin zu Ihnen oder an die Unfallstelle. Es entstehen hierbei keinerlei Kosten für Sie. Der Schaden wird innerhalb von 20-30 Minuten aufgenommen." },
+  { "name": "Gutachten Kalkulieren", "icon": "balance-sheet.png", "description": "Wir kalkulieren den Schaden, (wenn erfordert) den Restwert Ihres Fahrzeuges und den Wiederbeschaffungswert. Das Gutachten erhalten Sie als entweder postalisch, per WhatsApp oder per Mail." },
+  { "name": "Auszahlung der Schadenssumme", "icon": "money.png", "description": "Die Versicherung des Unfallgegners überweist Ihnen den von uns ermittelten Betrag oder sichert Ihnen die Übernahme der Reparaturkosten für die ausführende Werkstatt zu." }
+]
